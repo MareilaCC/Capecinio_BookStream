@@ -1,0 +1,43 @@
+body {
+    background: linear-gradient(to right, #ffff99,#ff99ff);
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.welcome-page {
+    padding: 50px;
+    text-align: center;
+}
+
+.welcome-page h2 {
+    font-size: 36px;
+    color: #1a0d0d;
+    margin-bottom: 20px;
+}
+
+.welcome-page p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+.welcome-page a {
+    background-color: rgb(180, 69, 172);
+    color: #fff;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin: 10px;
+   
+}
+
+.welcome-page a:hover {
+    background-color: #c3b749;
+}
+ .Button{
+  border: none;
+  box-shadow: none;
+} 
+
